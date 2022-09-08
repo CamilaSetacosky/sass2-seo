@@ -1,0 +1,17 @@
+main {
+    .bg-main {
+        color: $color-abundante;
+    }
+    .bg-circulo {
+        background-color: #f7ede2;
+        color: $color-abundante;
+        width: 200px;
+        height: 200px;
+    }
+    
+    .btn-primary {
+        background: $color-abundante;
+        border: 0;
+    }
+    
+}
